@@ -1,9 +1,11 @@
 {
   "editor.formatOnSave": true,
   "[julia]": {
-    "editor.defaultFormatter": "julialang.language-julia"
+    "editor.defaultFormatter": "julialang.language-julia",
+    "editor.formatOnSave": true
   },
   "[toml]": {
-    "editor.defaultFormatter": "tamasfe.even-better-toml"
+    "editor.defaultFormatter": "tamasfe.even-better-toml",
+    "editor.formatOnSave": true
   }
 }
