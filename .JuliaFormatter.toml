@@ -1,0 +1,3 @@
+# https://domluna.github.io/JuliaFormatter.jl/dev/config/
+# https://domluna.github.io/JuliaFormatter.jl/dev/yas_style/#YAS-Style
+style = "yas"
