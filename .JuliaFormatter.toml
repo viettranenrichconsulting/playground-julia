@@ -1,3 +1,4 @@
 # https://domluna.github.io/JuliaFormatter.jl/dev/config/
 # https://domluna.github.io/JuliaFormatter.jl/dev/yas_style/#YAS-Style
 style = "yas"
+import_to_using = true # should turn this on to limit exposure

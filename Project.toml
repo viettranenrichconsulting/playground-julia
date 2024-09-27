@@ -1,3 +1,8 @@
+name = "Playground"
+uuid = "f6896561-a1d7-40a4-8eb6-c2d3377c1a06"
+authors = ["Viet Tran <viet.tran@planview.com>"]
+version = "0.1.0"
+
 [deps]
 BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
 CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
@@ -6,4 +11,5 @@ HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
 JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
 JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
 Oxygen = "df9a0d86-3283-4920-82dc-4555fc0d1d8b"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
